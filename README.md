@@ -2,7 +2,7 @@
 
 # Uman Khalid
 
-### Quantum Information Technologies · AI for Quantum · Quantum for AI · Hybrid Quantum–Classical Systems
+### Quantum Information Technologies · AI for Quantum · Quantum for 6G · Hybrid Quantum–Classical Systems
 
 **Research Professor, Kyung Hee University, Korea**
 
